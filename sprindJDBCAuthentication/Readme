@@ -1,0 +1,5 @@
+Authorization is not working . 
+Check the file JDBC Commands for JDBC scripts.
+Check class Passwordencoder for encoding the password and storing in DB .There is 
+no way to decode the password . Its hashed . Only it can be checked whether its working fine
+or not.
